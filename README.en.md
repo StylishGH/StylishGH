@@ -1,12 +1,12 @@
 <div align="center">
   <p align="right">
-    <strong>🇧🇷 Versão em Português</strong> &nbsp;|&nbsp; 
-    <a href="./README.en.md">🇺🇸 English Version</a>
+    <a href="./README.md">🇧🇷 Versão em Português</a> &nbsp;|&nbsp; 
+    <strong>🇺🇸 English Version</strong>
   </p>
 
-  <h1>Olá, eu sou o Guilherme Henrique! 👋</h1>
-  <p><strong>Licenciando em Matemática (UFF) &nbsp;|&nbsp; Ciência de Dados & Machine Learning</strong></p>
-  <p><em>Unindo rigor quantitativo, raciocínio analítico e código para solucionar problemas complexos com dados.</em></p>
+  <h1>Hi, I'm Guilherme Henrique! 👋</h1>
+  <p><strong>B.S. in Mathematics (UFF) &nbsp;|&nbsp; Data Science & Machine Learning</strong></p>
+  <p><em>Bridging quantitative rigor, analytical thinking, and code to solve complex real-world data problems.</em></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ghmendes02/" target="_blank">
@@ -26,42 +26,43 @@
 
 ---
 
-### 🧠 Sobre Mim
+### 🧠 About Me
 
-- 🎓 Cursando **Licenciatura em Matemática** na **Universidade Federal Fluminense (UFF)**.
-- 🎯 Em busca de oportunidades de **Estágio / Júnior** em **Ciência de Dados**, **Análise de Dados** e **Machine Learning**.
-- 💡 Foco prático no desenvolvimento de pipelines de dados completos: desde a extração, modelagem relacional em SQL e engenharia de atributos até a validação estatística de modelos e deploy de aplicações interativas.
-- 🗣️ **Comunicação & Didática:** Sólida experiência em traduzir conceitos abstratos em linguagem acessível através de aulas e produção de conteúdo de estudos nas redes sociais (@ghmendes.id).
+- 🎓 Pursuing a **B.S. in Mathematics** at **Universidade Federal Fluminense (UFF)**.
+- 🎯 Seeking **Junior / Internship** opportunities in **Data Science**, **Data Analytics**, and **Machine Learning**.
+- 💡 Hands-on focus in building end-to-end data pipelines: from raw data extraction, relational SQL modeling, and feature engineering to statistical model validation and interactive dashboard deployment.
+- 🗣️ **Communication & Teaching:** Solid background in breaking down complex quantitative concepts into intuitive explanations through STEM tutoring and educational content creation (@ghmendes.id).
+- 🌐 **Fluent English (C1 Level):** Certified by EF SET (May 2026) with C2 Reading Proficient comprehension.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 MathAI</h3>
-      <p align="center"><em>Plataforma Inteligente de Diagnóstico e Aprendizagem Matemática</em></p>
+      <p align="center"><em>Intelligent Mathematical Learning & Cognitive Diagnosis Platform</em></p>
       <ul>
-        <li>Aplicação interativa desenvolvida com <strong>Python</strong> e <strong>Streamlit</strong>.</li>
-        <li>Arquitetura híbrida de banco de dados: <strong>SQLite</strong> local e <strong>Turso (libsql)</strong> em nuvem.</li>
-        <li>Integração de <strong>IA Multimodal (LLMs)</strong> para interpretação de resoluções manuscritas, mapeamento de lacunas conceituais e geração de dicas pedagógicas progressivas.</li>
+        <li>Interactive web application engineered with <strong>Python</strong> and <strong>Streamlit</strong>.</li>
+        <li>Hybrid database architecture: local <strong>SQLite</strong> and cloud-hosted <strong>Turso (libsql)</strong>.</li>
+        <li>Integrated <strong>Multimodal AI (LLMs)</strong> for handwritten solution parsing, error taxonomy classification, and progressive Socratic hints.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/StylishGH/MathAI">📂 Repositório</a> &nbsp;|&nbsp; 
-        <a href="https://mathia.streamlit.app">🌐 Aplicação Online</a>
+        <a href="https://github.com/StylishGH/MathAI">📂 Repository</a> &nbsp;|&nbsp; 
+        <a href="https://mathia.streamlit.app">🌐 Live App</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Empresas B3</h3>
-      <p align="center"><em>Análise Preditiva e Clusterização de Empresas Listadas</em></p>
+      <h3 align="center">📈 B3 Listed Companies Analysis</h3>
+      <p align="center"><em>Predictive Modeling & Clustering of Brazilian Public Equities</em></p>
       <ul>
-        <li>Pipeline de dados financeiros extraindo e consolidando demonstrações contábeis (DFP/CVM) de mais de 300 companhias.</li>
-        <li>Modelagem preditiva em <strong>Random Forest</strong> (83% de precisão) correlacionando múltiplos contábeis com indicadores macroeconômicos (Selic, IPCA e Dólar).</li>
-        <li>Segmentação setorial e perfis de risco/retorno utilizando algoritmos de clustering (<strong>K-Means</strong>).</li>
+        <li>Automated financial data pipeline processing official CVM regulatory filings across 300+ firms.</li>
+        <li>Predictive modeling with <strong>Random Forest</strong> (83% directional accuracy) cross-referencing accounting multiples with macroeconomic variables (Selic, CPI/IPCA, USD/BRL).</li>
+        <li>Industry segmentation and risk/return profiling via unsupervised clustering (<strong>K-Means</strong>).</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/StylishGH/Empresas-B3-analise-de-dados">📂 Repositório</a>
+        <a href="https://github.com/StylishGH/Empresas-B3-analise-de-dados">📂 Repository</a>
       </p>
     </td>
   </tr>
@@ -69,10 +70,10 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <strong>Linguagens & Manipulação:</strong><br/>
+  <strong>Languages & Data Manipulation:</strong><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -81,7 +82,7 @@
 </p>
 
 <p align="left">
-  <strong>Machine Learning & Visualização:</strong><br/>
+  <strong>Machine Learning & Visualization:</strong><br/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -91,7 +92,7 @@
 </p>
 
 <p align="left">
-  <strong>Bancos de Dados & Engenharia:</strong><br/>
+  <strong>Databases & Tooling:</strong><br/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Turso_DB-4FF8D2?style=flat-square&logo=turso&logoColor=black" alt="Turso" />
@@ -99,13 +100,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StylishGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StylishGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="155" />
-</div>
