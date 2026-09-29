@@ -100,3 +100,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StylishGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StylishGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="155" />
+</div>
