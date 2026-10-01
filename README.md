@@ -29,7 +29,7 @@
 ### 🧠 Sobre Mim
 
 - 🎓 Cursando **Licenciatura em Matemática** na **Universidade Federal Fluminense (UFF)**.
-- 🎯 Em busca de oportunidades de **Estágio / Júnior** em **Ciência de Dados**, **Análise de Dados** e **Machine Learning**.
+- 🎯 Em busca de oportunidades de **Júnior** em **Ciência de Dados**, **Análise de Dados** e **Machine Learning**.
 - 💡 Foco prático no desenvolvimento de pipelines de dados completos: desde a extração, modelagem relacional em SQL e engenharia de atributos até a validação estatística de modelos e deploy de aplicações interativas.
 - 🗣️ **Comunicação & Didática:** Sólida experiência em traduzir conceitos abstratos em linguagem acessível através de aulas e produção de conteúdo de estudos nas redes sociais (@ghmendes.id).
 
