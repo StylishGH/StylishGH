@@ -1,112 +1,86 @@
 <div align="center">
-  <p align="right">
-    <a href="./README.md">🇧🇷 Versão em Português</a> &nbsp;|&nbsp; 
-    <strong>🇺🇸 English Version</strong>
-  </p>
-
-  <h1>Hi, I'm Guilherme Henrique! 👋</h1>
-  <p><strong>B.S. in Mathematics (UFF) &nbsp;|&nbsp; Data Science & Machine Learning</strong></p>
-  <p><em>Bridging quantitative rigor, analytical thinking, and code to solve complex real-world data problems.</em></p>
-
+  <h1>Guilherme Henrique Mendes</h1>
+  <p><strong>Mathematics Undergraduate (UFF/CEDERJ) · Data & Analytics</strong></p>
+  <p>Turning quantitative problems into clear analysis and data-informed solutions.</p>
+  <p><a href="./README.md">🇧🇷 Português</a> &nbsp;|&nbsp; <strong>🇺🇸 English</strong></p>
   <p>
-    <a href="https://www.linkedin.com/in/ghmendes02/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ghmendes@id.uff.br">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.instagram.com/ghmendes.id/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.tiktok.com/@ghmendes.id2" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
+    <a href="https://www.linkedin.com/in/ghmendes02/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:ghmendes@id.uff.br"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/StylishGH"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   </p>
 </div>
 
 ---
 
-### 🧠 About Me
+## About me
 
-- 🎓 Pursuing a **B.S. in Mathematics** at **Universidade Federal Fluminense (UFF)**.
-- 🎯 Seeking **Junior / Internship** opportunities in **Data Science**, **Data Analytics**, and **Machine Learning**.
-- 💡 Hands-on focus in building end-to-end data pipelines: from raw data extraction, relational SQL modeling, and feature engineering to statistical model validation and interactive dashboard deployment.
-- 🗣️ **Communication & Teaching:** Solid background in breaking down complex quantitative concepts into intuitive explanations through STEM tutoring and educational content creation (@ghmendes.id).
-- 🌐 **Fluent English (C1 Level):** Certified by EF SET (May 2026) with C2 Reading Proficient comprehension.
+I am an undergraduate Mathematics student building my career in **Data and Analytics**, with a long-term interest in Data Science and Machine Learning.
 
----
+I am looking for a **junior** opportunity in Data Analysis, Analytics, data quality, or a related role. My quantitative background and teaching experience help me structure problems, explain concepts, and communicate findings clearly.
 
-### 🚀 Featured Projects
+**My current focus is strengthening SQL, applied statistics, and analytical/model evaluation skills**, while building projects that show not only code, but also decisions, limitations, and interpretable results.
+
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 MathAI</h3>
-      <p align="center"><em>Intelligent Mathematical Learning & Cognitive Diagnosis Platform</em></p>
+      <h3 align="center">📈 B3 Analytics</h3>
+      <p align="center"><em>Financial data analysis and Machine Learning experiments</em></p>
       <ul>
-        <li>Interactive web application engineered with <strong>Python</strong> and <strong>Streamlit</strong>.</li>
-        <li>Hybrid database architecture: local <strong>SQLite</strong> and cloud-hosted <strong>Turso (libsql)</strong>.</li>
-        <li>Integrated <strong>Multimodal AI (LLMs)</strong> for handwritten solution parsing, error taxonomy classification, and progressive Socratic hints.</li>
+        <li>Cleaned and consolidated public CVM financial statements and market data to analyze Brazilian listed companies.</li>
+        <li>Engineered financial indicators, performed exploratory analysis, and used K-Means for segmentation.</li>
+        <li>Built a Random Forest classification prototype and an interactive Streamlit dashboard.</li>
+        <li>Next priority: strengthen time-based evaluation, compare against baselines, and communicate model limitations.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/StylishGH/MathAI">📂 Repository</a> &nbsp;|&nbsp; 
-        <a href="https://mathia.streamlit.app">🌐 Live App</a>
+        <a href="https://github.com/StylishGH/Empresas-B3-analise-de-dados">Repository</a> ·
+        <a href="https://ghmendes.streamlit.app">Dashboard</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 B3 Listed Companies Analysis</h3>
-      <p align="center"><em>Predictive Modeling & Clustering of Brazilian Public Equities</em></p>
+      <h3 align="center">📐 Lemmas</h3>
+      <p align="center"><em>Adaptive mathematics learning platform</em></p>
       <ul>
-        <li>Automated financial data pipeline processing official CVM regulatory filings across 300+ firms.</li>
-        <li>Predictive modeling with <strong>Random Forest</strong> (83% directional accuracy) cross-referencing accounting multiples with macroeconomic variables (Selic, CPI/IPCA, USD/BRL).</li>
-        <li>Industry segmentation and risk/return profiling via unsupervised clustering (<strong>K-Means</strong>).</li>
+        <li>Work in progress with a Next.js frontend and FastAPI backend.</li>
+        <li>Routes for exercises, attempts, feedback, tutoring, and flashcards.</li>
+        <li>AI service and Supabase/PostgreSQL integrations.</li>
+        <li>Explores data provenance and separation between original submissions, AI interpretations, and human validation.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/StylishGH/Empresas-B3-analise-de-dados">📂 Repository</a>
+        <a href="https://github.com/StylishGH/LemmaS">Repository</a>
       </p>
     </td>
   </tr>
 </table>
 
----
+## Tools I use
 
-### 🛠️ Tech Stack & Tools
+**Data and programming:** Python, pandas, NumPy, scikit-learn (in projects), Jupyter Notebook.
 
-<p align="left">
-  <strong>Languages & Data Manipulation:</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
+**Analysis and presentation:** Excel (intermediate), Streamlit, Matplotlib, Plotly.
 
-<p align="left">
-  <strong>Machine Learning & Visualization:</strong><br/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="Seaborn" />
-</p>
+**Development:** Git, GitHub, REST APIs, SQL (currently deepening my skills).
 
-<p align="left">
-  <strong>Databases & Tooling:</strong><br/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Turso_DB-4FF8D2?style=flat-square&logo=turso&logoColor=black" alt="Turso" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
+I am strengthening SQL—especially joins, aggregations, CTEs, and window functions—and applied statistics to make my analysis more robust and reproducible. I prefer to demonstrate skills I can use in practice rather than list tools I have not mastered yet.
+
+## Current learning priorities
+
+- SQL and relational data modeling.
+- Python for analysis, automation, testing, and project structure.
+- Applied statistics and sound model evaluation, including time-based validation where appropriate.
+- Portfolio projects with clear questions, traceable data, baselines, and honest conclusions.
+
+## Education and communication
+
+- **B.Ed. in Mathematics** — UFF / CEDERJ (in progress).
+- **Teaching and communication:** experience explaining mathematics and abstract concepts in a structured, accessible way.
+- **English:** strong technical reading skills; continuing to improve spoken fluency.
 
 ---
 
-### 📊 GitHub Analytics
+### Let's connect
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StylishGH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StylishGH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="155" />
-</div>
+I am open to junior opportunities in **Data Analysis, Analytics, and related roles**.
+
+[LinkedIn](https://www.linkedin.com/in/ghmendes02/) · [GitHub](https://github.com/StylishGH) · [Email](mailto:ghmendes@id.uff.br)
