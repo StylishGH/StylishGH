@@ -48,6 +48,7 @@ Busco uma oportunidade **Júnior** em Análise de Dados, Analytics, qualidade de
         <li>Explora proveniência dos dados e a separação entre submissões originais, interpretações da IA e validação humana.</li>
       </ul>
       <p align="center">
+        <a href="https://lemmas-ochre.vercel.app/dashboard">Site ao vivo</a> ·
         <a href="https://github.com/StylishGH/LemmaS">Repositório</a>
       </p>
     </td>
