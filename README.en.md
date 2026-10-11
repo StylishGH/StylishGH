@@ -48,6 +48,7 @@ I am looking for a **junior** opportunity in Data Analysis, Analytics, data qual
         <li>Explores data provenance and separation between original submissions, AI interpretations, and human validation.</li>
       </ul>
       <p align="center">
+        <a href="https://lemmas-ochre.vercel.app/dashboard">Live site</a> ·
         <a href="https://github.com/StylishGH/LemmaS">Repository</a>
       </p>
     </td>
