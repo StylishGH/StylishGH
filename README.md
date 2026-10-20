@@ -24,9 +24,9 @@
 Sou graduando em **Licenciatura em Matemática na Universidade Federal Fluminense (UFF/CEDERJ)** e construo sistemas e pipelines de dados que rodam em produção — indo muito além de notebooks experimentais. Minha fundação é ancorada em **álgebra linear, cálculo, inferência estatística e otimização**, combinada com a prática diária de **ETL, modelagem relacional (PostgreSQL/SQL analítico), machine learning e deploy**.
 
 Fui aprovado em concursos militares de altíssima exigência quantitativa e concorrência:
-- ⚓ **EFOMM (Escola de Formação de Oficiais da Marinha Mercante)** — Aprovado **2 vezes** (Cálculo Diferencial e Integral, Física, Álgebra Linear e Inglês).
-- ✈️ **EEAr (Escola de Especialistas de Aeronáutica)** — Aprovado **3 vezes**.
-- 🎖️ **ESA (Escola de Sargentos das Armas)** — Aprovado **1 vez**.
+- ⚓ **EFOMM (Escola de Formação de Oficiais da Marinha Mercante)** — Aprovado e classificado **2 vezes** (Cálculo Diferencial e Integral, Física, Álgebra Linear e Inglês).
+- ✈️ **EEAr (Escola de Especialistas de Aeronáutica)** — Aprovado e classificado **3 vezes**.
+- 🎖️ **ESA (Escola de Sargentos das Armas)** — Aprovado e classificado **1 vez**.
 
 Essa bagagem forjou minha resiliência, disciplina de execução sob extrema pressão e raciocínio lógico analítico para diagnosticar e resolver problemas complexos com velocidade.
 
